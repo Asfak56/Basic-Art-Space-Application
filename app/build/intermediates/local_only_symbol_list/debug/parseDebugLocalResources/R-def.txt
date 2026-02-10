@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable alone
+drawable childhood
+drawable house
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable images
+drawable paris
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string author_1
+string author_2
+string author_3
+string author_4
+string author_5
+string date_1
+string date_2
+string date_3
+string date_4
+string date_5
+string title_1
+string title_2
+string title_3
+string title_4
+string title_5
+style Theme.ArtSpace
+xml backup_rules
+xml data_extraction_rules

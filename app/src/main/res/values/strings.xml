@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="title_1">Still Life of Blue Rose and Other Flowers.</string>
+    <string name="author_1">Owen Scott</string>
+    <string name="date_1">(2021)</string>
+
+    <string name="title_2">In silence, the lonely heart learns to heal.</string>
+    <string name="author_2">Pablo Neruda</string>
+    <string name="date_2">(1959)</string>
+
+    <string name="title_3">Home is peace built from love and patience.</string>
+    <string name="author_3">Maya Angelou</string>
+    <string name="date_3">(1993)</string>
+
+    <string name="title_4">The sun rests, but beauty stays behind.</string>
+    <string name="author_4">Johann Wolfgang</string>
+    <string name="date_4">(1810)</string>
+
+    <string name="title_5">We were rich in dreams, not in things.</string>
+    <string name="author_5">A. A. Milne</string>
+    <string name="date_5">(1926)</string>
+</resources>
