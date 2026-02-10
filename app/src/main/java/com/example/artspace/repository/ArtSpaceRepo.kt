@@ -1,4 +1,7 @@
-package com.example.artspace
+package com.example.artspace.repository
+
+import com.example.artspace.R
+import com.example.artspace.data.Resource
 
 class ArtSpaceRepo {
     fun getResources(): List<Resource> = listOf(

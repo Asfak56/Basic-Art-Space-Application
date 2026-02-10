@@ -1,4 +1,4 @@
-package com.example.artspace
+package com.example.artspace.data
 
 import androidx.annotation.DrawableRes
 

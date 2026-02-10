@@ -1,6 +1,8 @@
-package com.example.artspace
+package com.example.artspace.viewmodel
 
 import androidx.lifecycle.ViewModel
+import com.example.artspace.data.Resource
+import com.example.artspace.repository.ArtSpaceRepo
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -30,16 +32,3 @@ class ArtViewModel : ViewModel() {
         _currentArt.value = listItems[currentPosition]
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
